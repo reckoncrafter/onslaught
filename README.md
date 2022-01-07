@@ -13,6 +13,8 @@ It only requires an ncurses-compatible terminal emulator, and the ncurses librar
 
 I want to rewrite it in JS so it can be played in a web browser, but I don't know JS all that well.
 
+If you have Windows 10, and you really want to play my stupid game, try using the [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install)
+
 ---
 
 ## Building
