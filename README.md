@@ -31,3 +31,12 @@ Build the binary
 Launch
 
 `./onslaught`
+
+## Gameplay
+
+The `P>` is the player's avatar.
+Using the arrow keys allows the player to move left and right, and to jump, where the player will then gradually decend to the floor.
+
+The spacebar shoots pellets in whatever direction the player is facing.
+
+The `!`'s are the enemies that move across the screen. The `SCORE` count goes up for each `!` hit, and the `FAILS` count goes up for each `!` that makes it to the other side of the screen.
